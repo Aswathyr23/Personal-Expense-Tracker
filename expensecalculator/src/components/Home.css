@@ -1,0 +1,32 @@
+.first_part{
+    width: 50%;
+    height: 500px;
+    
+}
+.first_part img{
+    width: 500px;
+    height: 400px;
+    margin-top: 140px;
+    margin-left: 100px;
+    border-radius: 2%;
+
+}
+.two_part{
+    display: flex;
+    color: black;
+
+}
+
+.second_part p{
+    background-color: whitesmoke;
+    color: black;
+    font-size: 64px;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 50%;
+    height:500px;
+    margin-top: 180px;
+    margin-left: 250px;
+    justify-content: space-between;
+
+    
+}

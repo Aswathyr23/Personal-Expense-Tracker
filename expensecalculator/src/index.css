@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100..800&family=Borel&family=Roboto:ital,wght@1,300&display=swap')
+
+.* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "outfit",sans-serif;
+
+}
+body{
+  background-color: #f5f5f5;
+}
+.a{
+  cursor: pointer;
+  text-decoration: none;
+  line-height: 1;
+}
+
+
+
